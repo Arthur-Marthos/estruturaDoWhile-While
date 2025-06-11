@@ -3,8 +3,9 @@
 o jogo em caso de derrota. Utiliza laço while para repetir até 
 o fim do jogo.
  */
-package aula_12;
 
+package aula_12;
+import java.util.Scanner;
 public class estruturaDeDecisãoWhile {
 
 }
